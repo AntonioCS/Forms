@@ -1,1 +1,0 @@
-<label<?php echo $this->attributes?>><?php echo $this->text ?></label>
